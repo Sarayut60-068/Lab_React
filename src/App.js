@@ -74,7 +74,7 @@ class App extends React.Component {
           this.state.completed && <h4>Complete</h4>
         }
         {
-          this.state.completed &&<button onClick={this.reham}>play agian</button>
+          this.state.completed &&<button onClick={this.reham}>Play Agian</button>
         }
         
       </div>
